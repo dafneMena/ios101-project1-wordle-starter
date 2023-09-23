@@ -4,7 +4,7 @@ Submitted by: **Dafne Gonzslez**
 
 **Wordle** is an app where players try to guess the answer of a hidden word. 
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -33,11 +33,11 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg4eHcyMjNmdTc1bDFsMTg0OGZzN2V
 
 Describe any challenges encountered while building the app.
 
-For me the most difficult part was implementing a closure. Before atending the first lesson I had no idea what a closure was. Thankfully, the office hours videos were available and walked me through the process
+For me the most difficult part was implementing a closure. Before attending the first lesson I had no idea what a closure was. Thankfully, the office hours videos were available and walked me through the process.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Dafne Gonzalez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
